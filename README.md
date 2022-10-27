@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nadrzs
 - 👀 I’m interested in Design
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m currently learning UI/UX Design
 - 💞️ I’m looking to collaborate on Multimedia
-- 📫 How to reach me ...
+- 📫 nadhifarzs01@gmail.com
 
 <!---
 nadrzs/nadrzs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
